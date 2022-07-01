@@ -10,4 +10,4 @@ def fun(arr):
         else:
             right = mid
     return left
-print(fun([0, 10, 50, 2]))
+print(fun([0, 10, 50, 20, 51, 10]))
